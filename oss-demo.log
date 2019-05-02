@@ -1,0 +1,12 @@
+2019-02-07 10:15:10,153 INFO com.online.college.common.util.OSSUtil: Started
+2019-02-07 10:15:10,176 INFO com.aliyun.oss: Illegal file path: README.md
+2019-02-07 10:15:40,463 INFO com.online.college.common.util.OSSUtil: Started
+2019-02-07 10:15:40,483 INFO com.aliyun.oss: Illegal file path: README.md
+2019-02-07 10:17:16,973 INFO com.online.college.common.util.OSSUtil: Started
+2019-02-07 10:17:16,996 INFO com.aliyun.oss: Illegal file path: README.md
+2019-02-07 10:18:18,202 INFO com.online.college.common.util.OSSUtil: Started
+2019-02-07 10:18:18,232 INFO com.aliyun.oss: Illegal file path: README.md
+2019-02-07 10:19:06,095 INFO com.online.college.common.util.OSSUtil: Started
+2019-02-07 10:19:06,127 INFO com.aliyun.oss: Illegal file path: README.md
+2019-02-07 10:23:07,587 INFO com.online.college.common.util.OSSUtil: Started
+2019-02-07 10:23:07,616 INFO com.aliyun.oss: Illegal file path: README.md
